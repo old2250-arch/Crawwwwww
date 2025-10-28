@@ -1,0 +1,15 @@
+{
+  "name": "wilzz-xcraww",
+  "version": "1.0.0",
+  "description": "Wilzz x Craww Web ready for Vercel deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
